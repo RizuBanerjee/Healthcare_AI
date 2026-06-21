@@ -428,6 +428,19 @@ http://localhost:5173
 
 ---
 
+## Dataset
+
+The training dataset is not included in this repository because of its large size (~3.36 GB).
+
+Place the dataset inside:
+
+datasets/
+
+before retraining the models.
+
+
+
+
 # 📊 API Endpoints
 
 ## Symptom Prediction
